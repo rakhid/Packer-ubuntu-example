@@ -17,7 +17,7 @@ experimenting working with packer to automate VM creation (on mac or linux only 
 
 2.) navigate inside the folder where your project has been downloaded.
 
-3.) provide chmod 777 priviledge to http folder and all the scripts inside the script folder
+3.) provide chmod 777 priviledge to http folder and all the scripts inside the scripts folder
 
 4.)from your main folder run the following commands :
     -->packer validate ubuntu-test-vm.json ; if successful
